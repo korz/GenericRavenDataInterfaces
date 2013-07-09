@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Korz.GenericRavenDataInterfaces</id>
+	<title>Generic Raven Data Interfaces</title>
+    <version>1.0.0.0</version>
+    <authors>Korz</authors>
+    <owners>Korz</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Generic Raven Data Interfaces</description>
+    <releaseNotes>Generic Raven Data Interfaces</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+  </metadata>
+</package>
